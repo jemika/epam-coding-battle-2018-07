@@ -32,11 +32,16 @@ public class Coding implements EntryPoint {
           if (isLoggedIn) {
             loginDialogBox.hide();
             RootPanel.get().remove(loginDialogBox);
+            //TEMPORARY
 
-            userInfoTable.setText(1, 0, "Name");
-            userInfoTable.setText(1, 1, "Avatar");
-            userInfoTable.setText(1, 2, "SteamApiKey");
-            userInfoTable.setText(1, 3, "Remained attempts");
+            OurUser user = new OurUser("user123", "123","Steam User", "0EE6E555212B0399670196862E5A30DE");
+
+            userInfoTable.setText(1, 0, user.getName());
+            userInfoTable.setText(1, 1, "IMAGE");
+            userInfoTable.setText(1, 2, user.getSteamApiKey());
+            userInfoTable.setText(1, 3, "6");
+
+            //TEMPORARY
 
             RootPanel.get().add(userInfoTable);
           } else {
