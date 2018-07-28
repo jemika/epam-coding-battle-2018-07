@@ -37,7 +37,7 @@ public class Coding implements EntryPoint {
           userInfoTable.setText(1, 0, user.getUser().getName());
           userInfoTable.setText(1, 1, user.getUser().getUrl());
           userInfoTable.setText(1, 2, String.valueOf(user.getUser().getId()));
-          userInfoTable.setText(1, 3, String.valueOf(user.getAttempts()));
+          userInfoTable.setText(1, 3, String.valueOf(user.getNumOfAttempts()));
           Document.get().getElementById("topper").setInnerText("Hello, "+user.getName()+"! You have "+user.getNumOfAttempts()+" requests more.");
           RootPanel.get().add(userInfoTable);
         } else {
