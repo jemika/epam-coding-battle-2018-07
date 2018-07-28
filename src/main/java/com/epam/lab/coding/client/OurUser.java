@@ -6,6 +6,7 @@ public class OurUser {
   private final String password;
   private final String Name;
   private final String steamApiKey;
+  private final int numOfAttempts;
 
 
   public OurUser(String login, String password, String name, String steamApiKey) {
@@ -13,6 +14,7 @@ public class OurUser {
     this.password = password;
     Name = name;
     this.steamApiKey = steamApiKey;
+    numOfAttempts = 10;
   }
 
   public String getLogin() {
@@ -29,5 +31,9 @@ public class OurUser {
 
   public String getSteamApiKey() {
     return steamApiKey;
+  }
+
+  public int getNumOfAttempts() {
+    return numOfAttempts;
   }
 }
