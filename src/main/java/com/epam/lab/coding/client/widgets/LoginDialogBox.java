@@ -1,6 +1,5 @@
 package com.epam.lab.coding.client.widgets;
 
-import com.google.gwt.core.client.GWT;
 import com.google.gwt.user.client.ui.Button;
 import com.google.gwt.user.client.ui.DialogBox;
 import com.google.gwt.user.client.ui.PasswordTextBox;

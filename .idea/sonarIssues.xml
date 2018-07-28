@@ -3,12 +3,12 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="/Dummy.txt">
+        <entry key="$PROJECT_DIR$/.idea/misc.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/pom.xml">
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/client/AccountService.java">
           <value>
             <set />
           </value>
@@ -18,7 +18,77 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/coding.gwt.xml">
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/client/InMemoryAccountService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/client/OurUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/client/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/client/WelcomeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/client/i18n/CodingConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/client/i18n/CodingMessages.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/client/services/AccountService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/client/services/AccountServiceAsync.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/client/services/InMemoryAccountService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/client/widgets/LoginDialogBox.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/server/AccountServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/server/GreetingServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/epam/lab/coding/server/OurUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WelcomePage.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
           <value>
             <set />
           </value>
