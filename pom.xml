@@ -80,8 +80,8 @@
           </execution>
         </executions>
         <configuration>
-          <moduleName>com.epam.gwt.GitHubAnalyzer</moduleName>
-          <moduleShortName>GitHubAnalyzer</moduleShortName>
+          <moduleName>com.epam.lab.coding</moduleName>
+          <moduleShortName>coding</moduleShortName>
           <failOnError>true</failOnError>
           <!-- GWT compiler 2.8 requires 1.8, hence define sourceLevel here if you use
                a different source language for java compilation -->
@@ -97,7 +97,7 @@
           <classpathScope>compile+runtime</classpathScope>
           <!-- URL(s) that should be opened by DevMode (gwt:devmode). -->
           <startupUrls>
-            <startupUrl>GitHubAnalyzer.html</startupUrl>
+            <startupUrl>coding.html</startupUrl>
           </startupUrls>
         </configuration>
       </plugin>
