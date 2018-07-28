@@ -1,4 +1,4 @@
-package com.epam.lab.coding;
+package com.epam.lab.coding.client;
 
 public class OurUser {
 
